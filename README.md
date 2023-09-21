@@ -1,2 +1,2 @@
-# alx-react
-alx react projects
+### React
+Readme file for the repository *alx-react*.  
